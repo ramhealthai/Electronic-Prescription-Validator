@@ -1,0 +1,6 @@
+Patient Name,Medication,Dosage,Status
+John Smith,Metformin,500 mg,Valid
+Sarah Johnson,Lisinopril,10 mg,Valid
+Michael Brown,,20 mg,Incomplete
+Emma Davis,Atorvastatin,,Incomplete
+David Wilson,Amoxicillin,250 mg,Valid
